@@ -1,0 +1,34 @@
+#search{
+  border: 2.5px solid gray;
+}
+.top{
+  background-color: pink;
+  text-align: center;
+  padding:10px;
+}
+.topMovie{
+  padding-left:450px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  grid-template-columns: 300px 1fr;
+}
+.underMovie{
+
+    padding-top: 20px;
+}
+body{
+  margin:0;
+}
+header {
+  position: fixed;
+  width: 100%
+
+}
+a{
+  color:black;
+  text-decoration: none;
+}
+h1{
+  display:inline;
+
+}
