@@ -1,0 +1,86 @@
+#info
+{
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+.piecePoster
+{
+    width: 250px;
+    height: 350px;
+    padding-left: 100px;
+    padding-right: 50px;
+    float: left;
+    clear: both;
+}
+
+.genreTag
+{
+    padding-top: 50px;
+    text-emphasis: none;
+}
+.pieceStory{
+  width:1000px;
+  height:350px;
+}
+.writer{
+  text-align: right;
+}
+.input{
+  width:1000px;
+  height:50px;
+  text-align:center;
+  margin:0 auto;
+}
+.text{
+  resize:none;
+}
+.sort{
+  margin-top: 80px;
+  margin-right: 300px;
+  text-align: right;
+}
+.review{
+  margin:10px auto;
+  list-style: none;
+  width:900px;
+  padding:0;
+}
+.review-total{
+  height:100px;
+  margin-top:18px;
+  box-shadow: 0 0 0 2px gray;
+  background-color: pink;
+}
+.review-id_tag{
+  width:150px;
+  float:left;
+  line-height:50px;
+  text-align: center;
+}
+.review-id{
+  width:100%;
+  float:left;
+}
+.review-tag{
+  width:100%;
+  float:left;
+}
+.review-content{
+  width:600px;
+  float:left;
+  line-height:100px;
+}
+.review-date{
+  width:100px;
+  float:left;
+  line-height:100px;
+  text-align: center;
+}
+body{
+  margin:0;
+}
+a{
+  color:black;
+  text-decoration: none;
+}
