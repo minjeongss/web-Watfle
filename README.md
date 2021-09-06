@@ -1,6 +1,8 @@
 ## Watfle
 : 2020년도-2021년도 겨울 방학에 IGRUS(WebGrus)에서 진행한 웹 제작 프로젝트
 
+😎 [주소](http://watfle2.dothome.co.kr/piece.php?mediaType=movie&piece=313369)
+
 
 
 #### 📚 Watfle인 이유?
