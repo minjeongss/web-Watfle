@@ -32,21 +32,21 @@
 
 (1) 홈페이지
 
-<img src="img/1.png">
+<img src="./img/1.png">
 
 (2) 검색하는 부분
 
-<img src="img/3.png">
+<img src="./img/3.png">
 
 (3) 리뷰 페이지
 
-<img src="img/4.png">
+<img src="./img/4.png">
 
 (3) 푸터 부분
 
-<img src="img/5.png">
+<img src="./img/5.png">
 
 (4) 로그인 페이지
 
-<img src="img/2.png">
+<img src="./img/2.png">
 
