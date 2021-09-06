@@ -34,7 +34,7 @@
 
 (1) 홈페이지
 
-<img src="./img/1.png"/>
+<img src="img/1.png"/>
 
 (2) 검색하는 부분
 
