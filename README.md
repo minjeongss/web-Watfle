@@ -34,7 +34,7 @@
 
 (1) 홈페이지
 
-<img src="/img/1.png"/>
+![1](https://user-images.githubusercontent.com/66003567/132246808-335e4fda-d1e8-4a02-a42e-122a4fc94799.PNG)
 
 (2) 검색하는 부분
 
