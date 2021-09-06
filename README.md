@@ -38,17 +38,17 @@
 
 (2) 검색하는 부분
 
-<img src="./img/3.png">
+![3](https://user-images.githubusercontent.com/66003567/132246896-8bf3e25c-7bd4-4208-9303-3f6e37c25aec.PNG)
 
 (3) 리뷰 페이지
 
-<img src="./img/4.png">
+![4](https://user-images.githubusercontent.com/66003567/132246935-c007e750-5525-4113-8a05-7bbe0fcd5a04.PNG)
 
 (3) 푸터 부분
 
-<img src="./img/5.png">
+![5](https://user-images.githubusercontent.com/66003567/132246965-1634e489-c475-4486-b749-9d6f727ea82c.PNG)
 
 (4) 로그인 페이지
 
-<img src="./img/2.png">
+![2](https://user-images.githubusercontent.com/66003567/132246993-d521d448-9dcf-45cf-b330-e2b77c181327.PNG)
 
