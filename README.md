@@ -2,7 +2,11 @@
 <h2> Watfle </h2>
 : 2020년도-2021년도 겨울 방학에 IGRUS(WebGrus)에서 진행한 웹 제작 프로젝트
 
-😎 [주소](http://watfle2.dothome.co.kr/index.php) (도메인 완료/접속 불가능)
+## 주소 모음
+💻 [프로젝트 저장소 주소](https://github.com/WebGroose/Watfle)
+
+😎 [웹 주소(도메인 완료/접속 불가능)](http://watfle2.dothome.co.kr/index.php)
+
 </div>
 
 
